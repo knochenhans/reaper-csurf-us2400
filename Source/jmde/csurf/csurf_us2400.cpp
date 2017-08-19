@@ -1772,9 +1772,9 @@ class CSurf_US2400 : public IReaperControlSurface
     hlp_mstfdr_str[2] = WDL_String("Master Volume -> - inf dB");      // f
     hlp_mstfdr_str[3] = WDL_String("Master Volume");      // m
 
-    hlp_chan_str[0] = WDL_String("Enter Channnel Strip Mode");      // pan
-    hlp_chan_str[1] = WDL_String("Exit Channnel Strip Mode (Enter Pan Mode)");      // chan
-    hlp_chan_str[2] = WDL_String("Enter Channnel Strip Mode");      // aux
+    hlp_chan_str[0] = WDL_String("Enter Channel Strip Mode");      // pan
+    hlp_chan_str[1] = WDL_String("Exit Channel Strip Mode (Enter Pan Mode)");      // chan
+    hlp_chan_str[2] = WDL_String("Enter Channel Strip Mode");      // aux
 
     hlp_fkey_str[0] = WDL_String("");      // _
     hlp_fkey_str[1] = WDL_String("Open / Close Scribble Strip");      // sh
